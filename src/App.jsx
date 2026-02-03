@@ -275,7 +275,7 @@ function App() {
               <span className="info-icon">📍</span>
               <div className="info-text">
                 <h3>Location</h3>
-                <p>123 Student Lane<br/>University Campus<br/>City, State 12345</p>
+                <p>NST-ADYPU<br/>Pune, Maharashtra 411047</p>
               </div>
             </div>
 
@@ -283,7 +283,7 @@ function App() {
               <span className="info-icon">📞</span>
               <div className="info-text">
                 <h3>Phone</h3>
-                <p><a href="tel:+1234567890">(123) 456-7890</a></p>
+                <p><a href="tel:+919955699971">+91 9955699971</a></p>
               </div>
             </div>
 
@@ -291,7 +291,7 @@ function App() {
               <span className="info-icon">✉️</span>
               <div className="info-text">
                 <h3>Email</h3>
-                <p><a href="mailto:hello@nestcafe.com">hello@nestcafe.com</a></p>
+                <p><a href="mailto:injoraman@gmail.com">injoraman@gmail.com</a></p>
               </div>
             </div>
 
@@ -323,7 +323,7 @@ function App() {
           <div className="footer-section">
             <h4>Follow Us</h4>
             <div className="social-links">
-              <a href="#" className="social-icon" title="Instagram">📷</a>
+              <a href="#" className="social-icon" title="Instagram">❤️</a>
               <a href="#" className="social-icon" title="Facebook">f</a>
               <a href="#" className="social-icon" title="Twitter">𝕏</a>
               <a href="#" className="social-icon" title="TikTok">♪</a>
